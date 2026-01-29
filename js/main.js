@@ -24,10 +24,10 @@ function initTypingEffect() {
     if (!output) return;
 
     const phrases = [
-        'Java Junior Developer',
         'Full-Stack Enthusiast',
+        'Spring Boot & Angular',
         'Problem Solver',
-        'Low-Code Specialist',
+        'Clean Code Advocate',
         'Brussels-Based Developer'
     ];
 

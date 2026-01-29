@@ -218,6 +218,12 @@ img {
     margin-bottom: 0.3em;
 }
 
+.hero-jobtitle {
+    color: var(--text-secondary);
+    font-weight: 600;
+    letter-spacing: 0.5px;
+}
+
 .hero-subtitle-wrap {
     display: flex;
     align-items: center;
